@@ -4,7 +4,7 @@
       "name": "ICHIGO KUROSAKI" ,
       "position": "shinigami-substituto",
       "oldPrice": 349.99,
-      "image": "http://localhost:3000/BleachPage/img/Ichigo_Kurosaki.png",
+      "image": "https://nero800000.github.io/BleachPage/img/Ichigo_Kurosaki.png",
       "profileImage": "http://localhost:3000/BleachPage/profile/ichigo.png", 
       "bio": "Ichigo Kurosaki é um adolescente de 15 anos de idade, que frequenta uma escola de ensino médio na cidade fictícia de Karakura e que tem a capacidade de ver fantasmas. Uma noite, Ichigo encontra uma shinigami chamada Rukia Kuchiki de uma organização secreta chamada Soul Society que são encarregados de enviar almas a vida após a morte. Ao mesmo tempo, a família de Ichigo é atacada por um Hollow, um espírito falecido que se tornou um monstro comedor de almas que os shinigamis lidam. Depois de ser ferida em uma tentativa de proteger Ichigo de um ataque Hollow, Rukia transfere seus poderes de shinigami a ele para que ele possa salvar sua família.[23] Nos meses seguintes, Ichigo atua no lugar de Rukia como shinigami em proteger a cidade de Karakura de Hollows enquanto a amizade deles começa a florescer",
       "Skill1":"http://localhost:3000/BleachPage/skillsImage/ichigo/GestugaFinal.jpg",
