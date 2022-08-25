@@ -1,0 +1,328 @@
+[
+    {
+      "id": "94313731",
+      "name": "ICHIGO KUROSAKI" ,
+      "position": "shinigami-substituto",
+      "oldPrice": 349.99,
+      "image": "http://localhost:3000/BleachPage/img/Ichigo_Kurosaki.png",
+      "profileImage": "http://localhost:3000/BleachPage/profile/ichigo.png", 
+      "bio": "Ichigo Kurosaki é um adolescente de 15 anos de idade, que frequenta uma escola de ensino médio na cidade fictícia de Karakura e que tem a capacidade de ver fantasmas. Uma noite, Ichigo encontra uma shinigami chamada Rukia Kuchiki de uma organização secreta chamada Soul Society que são encarregados de enviar almas a vida após a morte. Ao mesmo tempo, a família de Ichigo é atacada por um Hollow, um espírito falecido que se tornou um monstro comedor de almas que os shinigamis lidam. Depois de ser ferida em uma tentativa de proteger Ichigo de um ataque Hollow, Rukia transfere seus poderes de shinigami a ele para que ele possa salvar sua família.[23] Nos meses seguintes, Ichigo atua no lugar de Rukia como shinigami em proteger a cidade de Karakura de Hollows enquanto a amizade deles começa a florescer",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/ichigo/GestugaFinal.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/ichigo/getsu.webp",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/ichigo/Hollow mask.jpg", 
+      "desc1": "Getsuga Tenshou Final é uma tecninca em que o usuario se torna o proprio getusga, ganhando um poder inigualavel",
+      "desc2": "Getsuga Tenshou, é uma tecnicna onde se condensa o reiatsu na espada e depois libera em forma de lua crescente",
+       "desc3": "mascara hollow, quando o usuario usa isso ele ganha um grande aumento em sua reiatsu e habilidades"
+    },
+    
+    {
+      "id": "94313762",
+      "name": "SADO YASUTORA",
+      "price": 249.99,
+      "oldPrice": 349.99,
+      "bio": "Sado nasceu em Okinawa, Japão, e foi levado para o México com seus pais, que morreram. Foi adotado por Oscar Joaquin de la Rosa, a quem chama de Abuelo (avô). Treinado por ele, ficou muito forte. Um dia arranjou uma briga com pessoas grandes, que queriam matá-lo. Seu Abuelo ficou no caminho, e apanhou por ele, sem revidar. Os agressores desistiram e fugiram, e Sado aprendeu a somente lutar pelos outros, nunca egoístamente. Quando ele morreu, resolveu voltar para o Japão. No colégio geralmente era humilhado e motivo de piadas já que ele apanhava sem revidar. Um dia para testá-lo quiseram cortá-lo com uma garrafa, quando apareceu Ichigo que o salvou. Sado disse que não lutava para si mesmo, então Ichigo, não querendo que ele apanhasse mais, fez um trato: (você luta por mim e eu por você, assim sua promessa não será quebrada) . Apesar de distantes, viraram amigos fiéis.",
+  
+      "image": "http://localhost:3000/BleachPage/img/yasutora_sado_verdadeiro.png",
+      "profileImage": "http://localhost:3000/BleachPage/profile/YasutoraSado_29.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/sado/BrazoDerecho.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/sado/ElDirecto.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/sado/LaMuerte.jpg",
+      "desc1": "brazo derecho del gigante, com essa forma sado ganha um escudo no braço e um grande aumento de poder em todas as sua habilidades,e velocidade",
+      "desc2": "El directo, ao socar com o braço direito sado dispara sua reiatsu",
+      "desc3": "La muerte, Como cinco discos de energia espiritual crepitante formam na ponta dos dedos, Sado forma um punho e soca seu oponente. O golpe é devastador, e após o contato, uma forma enorme do crânio é puxada para a superfície atrás do alvo."
+    },
+    
+    { 
+      "id": "943137XQ",
+      "name": "INOU ORIHIME",
+      "price": 249.99,
+      "oldPrice": 349.99,
+       "bio": "Orihime e seu irmão, Sora Inoue, foram criados por um pai alcoólatra e uma mãe prostituta, que sempre batia em seus filhos. Temendo que seus pais iriam matar Orihime, em março Sora, com dezoito anos, fugiu com Orihime, que tinha três anos, e cuidou dela a partir de então.[14][7] Por seis anos , Orihime e Sora viveram em harmonia, apesar do fato de que Orihime foi intimidada na escola por causa de sua cor de cabelo incomum. Um dia, Sora deu a Orihime um par de grampos. No entanto, Orihime recusou-se a usá-los, porque ela disse que eles eram infantis. Naquele dia, Sora morreu, e Orihime começou a usar os grampos de cabelo todos os dias desde então. Após a morte de Sora, Orihime orava por ele todos os dias. Um ano depois que Sora morreu, Orihime conheceu Tatsuki Arisawa e fez amizade com ela, diminuindo a quantidade de dias que ela orava por Sora. Depois de entrar no colégio de Karakura, ela parou de orar por ele e, em vez disso falava sobre Ichigo antes de ela sair e quando ela voltava da escola. Ela queria mostra a Sora que ela estava feliz e que ele não precisava se preocupar com ela.",
+       "image": "http://localhost:3000/BleachPage/img/Orihime (1).png",
+      "profileImage": "http://localhost:3000/BleachPage/profile/orehime.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/orehime/JNBHIUHIUIU.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/orehime/ShitenKōshun.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/orehime/SōtenKisshun.jpg",
+       "desc1":"Koten Zanshun  Uma técnica ofensiva que permite que Orihime ataque seus inimigos à distância. Para iniciar a habilidade, Orihime convoca Tsubaki e continua se  kotodama chamando o nome da técnica. Ela segue isso com a frase (Eu rejeito) (私é拒絶る, watashi wa kyozetsu suru), que inicia o ataque.  Tsubaki tem a capacidade de repelir (ambos os lados do escudo)  . Ele atravessa o inimigo, coloca um escudo dentro, e repele a substância  combinada, dividindo o inimigo em dois. Enquanto Tsubaki pode cortar qualquer coisa, a antipatia geral de Orihime de combate e hesitação em  usar força letal degrada a eficácia da técnica, tornando-o fácil de contra-atacar e igualmente fácil de ferir. ",
+
+ 
+       "desc2": "Shiten Kōshun (四天 抗 盾, Escudo de Resistência dos Quatro Céus): é uma das técnicas de Orihime. Ele combina propriedades ofensivas e defensivas dos Shun Shun Rikka. O encantamento integra Tsubaki no centro de sua capacidade",
+       "desc3": "Sōten Kisshun (双天帰盾, Escudo do Retorno dos Gêmeos Sagrados): é a técnica de (cura) de Orihime. Ela envolve algo e retorna para o jeito que era antes de ser destruída. Ele rejeita, inverte, e reconstrói os fenômenos que ocorreram, mesmo fenômenos que Orihime não tenha presenciado. Quando Sōten Kisshun é usada"
+    },
+    {
+      "id": "95077714",
+      "name": "RUKIA KUCHIKI",
+      "price": 199.99,
+      "oldPrice": 279.99,
+       "bio": "Cerca de 150 anos atrás,[16] Rukia e sua irmã mais velha, Hisana, foram reunidas para Inuzuri, o Distrito 78 de Rukongai, depois que elas morreram no Mundo Humano. Incapaz de viver lá enquanto cuidava de uma criança, Hisana abandonou Rukia quando ela ainda era uma bebê.[17] Rukia cresceu sozinha por um tempo considerável. Um dia, Rukia enfrentou um adulto que estava atrás do grupo de amigos de Renji Abarai, e os fez seguirem-na para evitar a perda da água que eles tinham roubado. Rukia se juntou ao seu grupo, tornando-se sua líder espiritual, e eles viveram juntos como uma família. Todos eles odiavam Inuzuri e as pessoas de lá. Rukia demonstrou ter algum poder espiritual durante este tempo. Dez anos depois de Rukia se juntar ao grupo, com todos os seus amigos mortos, Rukia propõe tornar-se uma  Shinigami e viver em Seireitei, notando que ela tinha ouvido falar muito de lá. Renji concorda com ela. Como eles  eram dotados de poderes espirituais, entraram para a Academia Shinigami com facilidade, onde lutaram para se destacar nas famílias nobres. Algum tempo depois foi adotada pela família nobre Kuchiki como irmã de Byakuya Kuchiki.",
+  
+        "image": "http://localhost:3000/BleachPage/img/Rukia_Ep364.png",
+      "profileImage": "http://localhost:3000/BleachPage/profile/rukia.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/rukia/soukatsui.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/rukia/tsukichiro.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/rukia/Hakurem.jpg",
+      "desc1": "Chamas azuis são descarregadas da palma da mão do usuário. O praticante aponta a palma da mão para o alvo e gera uma torrente de energia azul antes de disparar contra o alvo.",
+      "desc2": "Enquanto Rukia chama o nome da dança enquanto segura seu Zanpakutō de cabeça para baixo, a lâmina brilha. Fazendo um movimento de corte quando seu alvo está em posição, Rukia desenha um círculo com a ponta de Sode no Shirayuki. O espaço dentro deste círculo e qualquer coisa dentro congela. [1] O círculo não só congela o chão, mas tudo dentro da influência do círculo, incluindo qualquer coisa acima dele no ar, criando um pilar de luz que congela tudo dentro do círculo. Pouco depois de ser  congelada, a vítima se despedaça junto com o gelo.  O pilar de gelo não vai quebrar se a vítima não for pega dentro dele. ",
+      "desc3": "Chamando o nome da dança, Rukia perfura o chão uma vez, criando um grande círculo de gelo, antes de perfurar o chão na frente dela quatro vezes em um semicírculo. À medida que as partículas de gelo começam a fluir das perfurações que ela fez no chão, Rukia toma uma posição de batalha. Acumulando-se na ponta de Sode no Shirayuki, as partículas de gelo são liberadas como uma poderosa grande avalanche de ar frio, que congela o que quer que entre em contato, envolvendo-o em gelo."
+      
+    },
+    {
+      "id": "9507779N",
+      "name": "URYUU ISHIDA",
+      "price": 199.99,
+      "oldPrice": 279.99,
+       "image": "http://localhost:3000/BleachPage/img/uryuu.png",
+      "bio": "Uryū é o resultado do casamento de Ryūken Ishida com Kanae Katagiri que aconteceu após a infecção de Masaki Kurosaki, a quem Ryūken originalmente estava destinado a casar. Seis anos antes, ele fez amizade com  Ichigo Kurosaki, sua mãe perdeu a consciência no mesmo dia em que Masaki morreu, 17 de junho, e morreu três meses depois, como Yhwach realizado sua técnica Auswählen e tomou seus poderes  Como uma criança, Uryū principalmente interagiu e treinou com o avô, Sōken  Ishida. Seu pai, Ryūken Ishida, foi menos entusiasmado sobre ser um Quincy, alegando que não era uma ocupação rentável. Eles não pareciam estar em muito  boas condições, como resultado, dado o uso ocasional de Uryū de dado o nome de  seu pai. Sōken entende o raciocínio de Ryūken, pois sendo um Quincy é mais sobre  a justiça de recompensas materiais, e Ryūken tem uma família para sustentar.  Sōken disse para Uryū que ele um dia iria entender os motivos de seu pai, mas, até  agora, este não é o caso.  Em uma idade bastante jovem, o avô de Uryū foi morto por Hollows bem na frente dele, e Uryū foi incapaz de  fazer uma coisa para protegê-lo. Esta é uma das razões pelas quais ele odeia Shinigami, que não foram para  resgatar Sōken no momento.  Mais tarde é revelado que o atual capitão da 12ª Divisão, Mayuri Kurotsuchi,  demorou de propósito para que a alma de Sōken pudesse ser recolhido para o estudo. ",
+      "profileImage": "http://localhost:3000/BleachPage/profile/ishida.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/ishida/Ransōtengai.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/ishida/Sklaverei.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/ishida/Sprenger.jpg",
+      "desc1": "Uma técnica de alto nível que permite ao usuário controlar suas partes do corpo usando cordas de Reiryoku controladas pelo cérebro, formando linhas ou cordas feitas de Reishi. Usando esta técnica, o Quincy pode controlar seu corpo como uma marionete, permitindo que eles se movam livremente apesar da paralisia, membros quebrados ou qualquer outra força que impediria o movimento normal.Foi originalmente criado para permitir que quincy idosos lutassem efetivamente, e é raro o suficiente que Mayuri Kurotsuchi nunca tinha encontrado um Quincy que poderia usá-lo antes de Uryū Ishida, apesar de ter examinado e estudado 2661 indivíduos diferentes. ",
+      "desc2": "Esta técnica usa a habilidade mais básica de reunir Reishi da maneira mais poderosa: escravizando-a. Pode literalmente rasgar os componentes que compõem objetos espirituais, como aqueles que compõem o Hueco Mundo e a Soul Society, bem como os corpos dos seres espirituais. Quando o corpo de um ser espiritual é afetado por esse poder, Quilge pode literalmente assumir as características e capacidades associadas de sua vítima.No entanto, a transformação não é permanente, pois o poder absorvido eventualmente desaparece.  Além disso, Sklaverei não é utilizável se a Heiligenschein de Quilge for destruída, e cessará automaticamente se for destruída durante o uso.",
+      "desc3": "Esta técnica usa cinco Seele Schneider para criar um selo em forma de pentágono que, quando ativado, cria uma explosão maciça dentro de suas bordas. Quando um objeto ou uma pessoa se encontra no meio do pentágono, a colocação do quinto Seele Schneider pode prendê-los envolvendo e encadernando suas pernas ao chão com Reishi denso. O Seele Schneider funciona como acumuladores, reunindo a quantidade necessária de Reishi para criar a explosão. O líquido dentro de um Gintō atua como o gatilho. Os preparativos para a técnica, combinados com o tempo de carregamento, tornam o uso do Sprenger na batalha impraticável, a menos que o usuário tenha um parceiro que possa parar de comprar tempo ou força suficiente para criar a formação enquanto estiver sob ataque."
+    },
+    {
+      "id": "92601102",
+      "name": "ABARAI RENJI",
+      "price": 449.99,
+      "oldPrice": 559.99,
+      "bio": "Renji cresceu no distrito 78 de Rukongai, Inuzuri , com várias outras crianças. Tendo vindo para a Sociedade de Almas sozinhos, eles se ajudaram mutuamente na busca por suas famílias. Um dia, depois de roubar uma jarra d'água, Renji e seus amigos foram perseguidos por um adulto empunhando kama. Rukia fez o adulto tropeçar e  pediu ao grupo de Renji que a seguisse para evitar a perda de água. Rukia se juntou ao grupo e eles viveram juntos como uma família. Todos eles odiavam Inuzuri e as pessoas de lá. Renji não gostava do fato de Rukia ter poder espiritual como ele. Dez anos depois que Rukia se juntou ao grupo, com todos os seus amigos mortos,  Rukia propôs que eles se tornassem Shinigami, que Renji concordou em fazer. Como eram dotados de poderes  espirituais, eles entraram na Academia Shinō com facilidade, onde lutaram para provar seu valor entre os de  famílias nobres .  Na noite anterior à cerimônia de boas-vindas aos novos alunos da Academia, Renji dormiu em  uma árvore, contra o conselho de Rukia. Na manhã seguinte, ele caiu da árvore e pousou em uma lápide onde  Izuru Kira estava orando. Tendo pontuado entre as notas mais altas no exame de admissão, Renji foi admitido na  classe superior junto com Izuru e Momo Hinamori . Renji se formou na Academia Shinō em seu 2.066º ano e juntou-se ao Gotei 13",
+     "image": "http://localhost:3000/BleachPage/img/abaraiKun.png",
+      "profileImage": "http://localhost:3000/BleachPage/profile/renji.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/renji/bankai.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/renji/HigaZekkou.jpg  ",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/renji/hikotsutaiho.jpg",
+      "desc1": "Bankai Incompleto: Hihiō Zabimaru (狒狒 王 蛇尾 丸, cauda de cobra do rei babuíno): tRenji ganha um manto feito da pele de um babuíno com um crânio de um  babuíno no ombro esquerdo que vai se transformando numa manga e uma luva preta na mão direita (essa luva tem como objetivo de indicar a mão que será utilizada para manusear a zanpakutou), Zabimaru por sua vez, se transforma numa cobra  totalmente feita de ossos, e com um crânio de cobra coberto por um manto vermelho no final da zanpakutou. A principal diferença de sua shikai (tirando a sua aparência) é não ser mais presa por um tipo de elástico, e sim por reiatsu, sendo assim quase que impossível de quebra-lá, somente se o ataque acertar ao próprio Renji, e então  a zanpakutou ficará mais fraca. O próprio Zabimaru, na forma Bankai, não (corta)   literalmente; Renji geralmente pega seu oponente com a cabeça de cobra de sua arma e o acerta no chão com ela. A cabeça também provou ser capaz de infligir danos pesados ​​por meio de mordidas. ",
+      "desc2": "Higa Zekkou: Com a mesma finalidade do seu estado de shikai o higa zekkou constitui em fazer as partes da zabimaru atacarem o oponente, mas no bankai o poder destrutivo desta técnica  aumenta. As partes que avançam contra o oponente podem imobilizá-lo. ",
+       "desc3": "mascara hollow, quando o usuario usa isso ele ganha um grande aumento em sua reiatsu e habilidades"
+    },
+  
+  
+    {
+      "id": "94672705",
+      "name": "URAHARA KISUKE",
+      "price": 179.99,
+      "oldPrice": 229.99,
+       "image": "http://localhost:3000/BleachPage/img/urahara3.png",
+      "bio": " Urahara cresceu na Mansão Shihōin no Seireitei da Soul  Yoruichi, e eventualmente se tornou o 3º assento da 2ª Divisão sob sua liderança. Como parte de seus deveres, ele também chefiou a Terceira Unidade do Onmitsukidō, a Unidade de Detenção. Aproximadamente 110 anos atrás, o capitão da 12ª Divisão, Kirio Hikifune, foi promovido à Guarda Real. Como  resultado, Urahara foi recomendado pelo então capitão da Segunda Divisão, Yoruichi Shihōin para ocupar o lugar do Capitão Kirio Hikifune. Antes de apresentar Urahara com a notícia da posição aberta, Yoruichi teve uma  sessão de sparring com Urahara no espaço de treinamento Sōkyoku Hill. Ela o informa que o havia  recomendado para o cargo e se retira de volta para o quartel da 2ª Divisão. Urahara então passou o dia vagando recomendado para o cargo e se retira de volta para o quartel da 2ª Divisão. Urahara então passou o dia vagando sendo espionado por Suì-Fēng, guarda-costas de Yoruichi. Depois que o dia acabou, Suì-Fēng voltou ao quartel-general da 2ª Divisão para encontrar Urahara já lá conversando com Yoruichi, onde ela foi informada de  que Urahara faria o exame de proficiência de capitão, ao qual Suì-Fēng fica descrente. Depois de passar com sucesso no exame, que foi supervisionado por Genryūsai Shigekuni Yamamoto, Retsu Unohana e Ginrei Kuchiki,  ele se tornou o capitão da 12ª Divisão  e ganhou o tenente de Hikifune, Hiyori Sarugaki.",
+      "profileImage": "http://localhost:3000/BleachPage/profile/urahara.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/urahara/ChikasuminoTate.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/urahara/NakeBenehime.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/urahara/Shibari, Benihime.jpg",
+       "desc1": "Esta técnica constitui uma barreira carmesim hexagonal em frente da lâmina de tácticas defensivas. A barreira, gritada com o mesmo comando, como a técnica do (Nake)  pode facilmente bloquear um soco direto de um Espada sem danos a si mesmo, ou repercussões para Urahara,[1] e bloqueia a primeira utilização do (Getsuga Tenshō) de Ichigo, enquanto apenas ligeiramente quebrou, após o que Urahara afirma que ele teria perdido um braço, se não fosse pelo escudo.",
+      "desc2": "Esta técnica dispara explosões de energia de cor carmesim particularmente fortes e destrutivas. A energia flui da lâmina e dispara no arco do balanço da espada. A técnica é capaz de parar um Cero à queima-roupa de um Arrancar no nível da Espada, dissipando-a com uma explosão de igual poder. Ele pode carregar essa técnica para causar muito mais dano.",
+       "desc3": "Essa técnica lança energia condensada na forma de uma rede tangível vermelha, gerada a partir do comprimento da lâmina, e simplesmente a lança sobre o alvo pretendido (normalmente de cima) com um simples movimento de ataque de Benihime. A rede ainda liga e restringe os movimentos de um oponente ao restringir-se a sua forma. Esta rede parece alongada e um pouco estreita."
+    },
+    {
+      "id": "92456602",
+      "name": "YOURUICHI SHIHOIN",
+      "price": 179.99,
+      "oldPrice": 209.99,
+      "image": "http://localhost:3000/BleachPage/img/youruichi.png",
+      "bio":"Yoruichi Shihōin nasceu como a princesa dos Tenshiheisōban (Casa das Engrenagens Divinas), o Clã Shihōin,  uma das quatro famílias nobres. Yoruichi cresceu na Mansão Shihōin no Seireitei da Soul Society com seu amigo  de infância Kisuke Urahara. Durante este tempo, eles jogaram juntos diariamente sob o espaço de treinamento  da montanha de Sōkyoku, que Urahara construiu quando eram crianças. Mais tarde, Yoruichi tornou-se o  da montanha de Sōkyoku, que Urahara construiu quando eram crianças. Mais tarde, Yoruichi tornou-se o  Clã Shihōin, tornando-se a primeira mulher a ocupar a posição.  Clã Shihōin, tornando-se a primeira mulher a ocupar a posição. normal, aparecendo sempre junto á Urahara e trabalhando com ele nas sombras. ",
+      "profileImage": "http://localhost:3000/BleachPage/profile/youruichi.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/youruichi/Shunkō(Lightning).jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/youruichi/Shunpo.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/youruichi/Takigoi.jpg",
+      "desc1": "Uma técnica avançada que combina Hakuda com Kidō. Esta técnica envolve suas costas e braços com Kidō pressurizado baseado no elemento do relâmpago. O uniforme keisen não tem costas ou mangas porque eles se rasgam quando são ativados. Além de melhorar seus braços e pernas para o combate, a  técnica permite que ela neutralize instantaneamente o movimento de um oponente. O Kidō em si pode ser controlado e disparado contra oponentes de seu corpo, o que cria explosões massivas. A versão de Yoruichi da  técnica foi desenvolvida e estudada por ela há um século; portanto, a técnica está completa e o Kidō comprimido é visível. Ao usar esta técnica, sua Reiatsu assume a forma de um raio branco. Sua habilidade e  controle em seu uso progrediu até o ponto de ativação, tomando a forma de um par de asas relâmpago geradas de suas costas. ",
+      "desc2": "Yoruichi é a melhor usuária de Shunpo do Universo Bleach, sendo chamada de (Deusa relampago)",
+       "desc3": " O praticante utiliza essa técnica para criar uma abertura na defesa do oponente. Quando o alvo é ativado, o usuário bloqueia o ataque com o antebraço. Quando o inimigo se move para chutá-lo com o outro pé, o praticante agarra o pé bloqueado com a mão livre enquanto simultaneamente bloqueia o segundo ataque com as pernas. O usuário subsequentemente intercepta o segundo pé do adversário entre as pernas. Com ambas as pernas presas, o alvo está agora aberto para atacar e o usuário aproveita a situação para atacar com a mão livre."
+    },
+    {
+      "id": "94461431",
+      "name": "MADARAME IKKAKU",
+      "price": 279.99,
+      "image": "http://localhost:3000/BleachPage/img/ikkaku.png",
+      "bio": "Ikkaku Madarame é um personagem do anime Bleach,ele é o 3º Oficial da 11ª Divisão do Gotei  13, Divisão na qual Zaraki é o Capitão e Yachiru é a Tenente. Ikkaku é um homem alto e careca, tão careca, que ele chega a ameaçar qualquer um que  ale sobre sua calvicie. Ikkaku tem uma lealdade absoluta para com Zaraki Kenpachi, seu Capitão. Sua devoção para Kenpachi vem depois de uma luta entre os dois (quando eles ainda não eram shinigamis) que Ikkaku foi derrotado, após ser derrotado ele pede para Kenpachi o matar, mas ele se recusa, dizendo que ele ficou vivo por sorte e deve  usar essa sorte para se manter vivo e tentar matá-lo novamente um dia. Ikkaku se recupera e vai atrás de Kenpachi seguindo as informações de seu melhor amigo Yumichika  Ayasegawa que descobriu onde ele se encontrava, no caso, Kenpachi havia derrotado o antigo Capitão do  11° Esquadrão. Em um certo dia Kenpachi estava dando ordens para seu novo esquadrão, Ikkaku o  interrompe e disse que voltou como prometido, e Kenpachi sorri. Ele esclarece que todo e qualquer membro  do 11º Esquadrão pode usar somente sua Zanpakutou para ataques diretos, e que qualquer uso de poder  especial ou Kidou seria ridicularizado por todos. Ikkaku ficou tão forte ao ponto de ter sido o primeiro sem  patente de Tenente a ter uma Bankai, por isso ele esconde para ninguém saber. Ikkaku tem medo de que se  patente de Tenente a ter uma Bankai, por isso ele esconde para ninguém saber. Ikkaku tem medo de que se conseqüentemente deixaria de morrer por ele.",
+      "profileImage": "http://localhost:3000/BleachPage/profile/IkkakuMadarame_29.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/ikkaku/bankai.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/ikkaku/Crescer.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/ikkaku/Dividir.jpg",
+      "desc1": "Habilidade especial de Bankai : Bankai de Ikkaku, como seu Shikai, é bastante incomum. Além do aumento de poder, seu Bankai não oferece nenhuma habilidade especial ou propriedades defensivas especiais, mas libera um pouco de Reiatsu, que começa a crescer em força.",
+      "desc2": "Sua espada vira uma lança podendo usar ataques de longa distancia",
+       "desc3": "Sua espada se quebranta podendo usar ataques curvados"
+  
+    },
+    
+    {
+      "id": "93227802",
+      "name": "IZURU KIRA",
+      "price": 159.99,
+      "oldPrice": 189.99,
+      "image": "http://localhost:3000/BleachPage/img/izuru.png",
+      "bio": "Izuru Kira Ele é o Tenente do 3° Esquadrão do Gotei 13. Kira vem de uma família de nobreza inferior e desde cedo perdeu seus pais. Ele entrou para a Academia Shinigami, a qual ele conheçou Renji Abarai e Momo Hinamori, seus futuros companheiros na Academia. Kira mostrou ser muito habilidoso na Academia e logo fez amizade com Renji e Hinamori, passando por grandes desafios juntos, como quando em um treinamento eles foram atacaos por um Hollow, felizmente foram salvos por Sōsuke Aizen. Logo depois da graduação, Kira, ao lado de Renji e Momo foi mandado para o 5° Esquadrão, onde permaneçeu até Gin Ichimaru se tornar o Capitão do 3° Esquadrão. Sabe-se também que Kira passou algum tempo no 4° Esquadrão, carregando remédios para os feridos. Depois de se tornar o Tenete do 3° Esquadrão, começa a história de Kira na série.",
+      "profileImage": "http://localhost:3000/BleachPage/profile/IZURu.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/izuru/Bajudo39.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/izuru/bakudou 73.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/izuru/wabisuke.jpg",
+      "desc1": "Usando ambas as mãos ou seu Zanpakutō em um movimento de bloqueio, o usuário gera uma energia amarela opaca, que assume a forma de um grande disco giratório de Reiatsu condensado na frente de si, e assim, bloqueando o ataque de seu oponente.",
+      "desc2": "À medida que o feitiço se inflama em um único ponto, a energia azul se estende para cima até quatro pontos e forma uma pirâmide invertida, que se solidifica em uma barreira ao redor do usuário. O feitiço é utilizável em torno de outros Kidō já ativos.[1] Este Kidō pode ser usado para prender outras pessoas dentro dele.",
+      "desc3": "Shikai: Tudo o que ela toca tem seu peso dobrado. Seu formato é de um gancho quadrado no entanto com ângulos retos. Se a zanpakutou cortar 3 vezes não fica o triplo mas sim o dobro do último acerto (se uma zanpakutou pesar 1 kg e ser acertada uma vez fica com 2 kg. Se for atingida outra vez fica 4 kg, depois 8 kg e assim sucessivamente  [1x2 = 2x2 = 3x2 = 4x2...]). O nome Wabisuke (aquele que pede desculpa) vem de sua habilidade, como o oponente depois de atingido várias vezes se abaixa não aguentando o novo peso, parecendo que está pedindo perdão."
+      
+    },
+
+    {
+      "id": "93828502",
+      "name": "SHUHEI HISAGI",
+      "price": 139.99,
+      "oldPrice": 179.99,
+       "bio": "hisage é o Tenente da 9ª Divisão, sendo seu antigo Capitão Kaname Tōsen, Cerca de 100 anos antes da linha da história atual, um jovem Hisagi e vários de seus companheiros foram vítimas de um ataque Hollow em Rukongai. Felizmente, não demorou muito até que eles fossem salvos por Kensei Muguruma e a 9ª Divisão. Depois de derrotar o Hollow, Kensei tentou animar Hisagi (embora estivesse com um sorriso um pouco assustador e de forma exigente) e perguntou seu nome. Foi então que Hisagi viu a tatuagem (69) no peito de Kensei e adquiriu a inspiração para a mesma tatuagem em seu rosto.   Hisagi já era um Shinigami famoso antes mesmo de se tornar um oficial. Ele começou a participar de missões com o Gotei 13, quando ele ainda era um estudante da Academia Shinigami. Durante o seu último ano de estudo, Hisagi e dois de seus colegas de classe, Kanisawa e Aoga, foram designados para conduzir uma aula de campo na execução do Konsõ com a Classe de Calouro Um, a classe que Renji Abarai, Kira Izuru e Hinamori Momo eram membros. Tudo ia bem até o final da aula, quando um grupo de Hollows enormes pegou a classe de surpresa. Como Kanisawa e Aoga foram mortos, Hisagi pediu a todos os calouros para correrem e tentou afastar os Hollows sozinho até que a ajuda chegasse. No entanto, ele foi rapidamente dominado, sendo ferido no olho direito, e teria sido morto se Renji, Izuru, e Momo não tivessem voltado para ajudar. Felizmente, o capitão Sōsuke Aizen e o tenente Gin Ichimaru chegaram a tempo de salvar a todos. Kira mencionou que Hisagi não passou no exame de admissão para a academia duas vezes. No entanto, seu talento lhe permitiu se tornar um oficial no Gotei 13, sem ter que passar por testes adicionais afinal. ",
+       "image": "http://localhost:3000/BleachPage/img/hisageeeeeeeeeeeee.png",
+      "profileImage":"http://localhost:3000/BleachPage/profile/Hisage.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/Hisage/Bakudou 62 Hyappo Rankan.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/Hisage/Hadou 11 Tsuzuri Raiden.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/Hisage/shikai.jpg",
+      "desc1": "Bakudō 62: Hyapporankan, Gerando uma haste de energia azul-branca brilhante em sua mão, o praticante a joga no alvo pretendido. Ela se multiplica em mais cem varas, que chovem sobre o alvo e prendem-no contra uma superfície sólida, imobilizando-o completamente. É difícil se esquivar em uma pequena área. Alternativamente, o praticante pode gerar as hastes ao redor do corpo e impulsioná-las ao oponente com um simples gesto de sua mão.",
+      "desc2": "O usuário consegue gerar uma corrente elétrica através de qualquer objeto que ele toque, danificando qualquer coisa ou qualquer pessoa que esteja em contato com o objeto que a corrente percorre.",
+       "desc3": "Hadō #11. Tsuzuri Raiden, O usuário consegue gerar uma corrente elétrica através de qualquer objeto que ele toque, danificando qualquer coisa ou qualquer pessoa que esteja em contato com o objeto que a corrente percorre. "
+    },
+    {
+      "id": "95150929",
+      "name": "MOMO HiNAMORI",
+      "price": 199.99,
+      "oldPrice": 259.99,
+      "image": "http://localhost:3000/BleachPage/img/momo.png",
+      "bio":"Momo Hinamori (雛森 桃, Hinamori Momo) é a tenente da Quinta Divisão, anteriormente obedecia a Sōsuke Aizen. Momo cresceu em Junrinan , primeiro distrito de Rukongai , junto com Toshiro Hitsugaya . Enquanto Hitsugaya tendia a agir como uma criança, Momo tratou-o como um irmão mais novo. Os dois têm uma estreita amizade , refletida por Momo dando-lhe o apelido de Shiro -chan ( Lil ' Shiro na versão Inglês Dublado) .  Momo era dois anos mais velha que Toshiro , que lhe deu a melhor razão para protegê-la. Ainda mais , os dois eram muito próximos, e prometeu proteger uns aos outros,depois que Momo cresce demostra ter criado fortes sentimentos por Toushirou. Quando Momo entrou para a Academia Shinigami , ela se destacou no Kidou . Foi lá que ela conheceu Izuru Kira e Renji Abarai ,  que logo se tornaram seus amigos e , mais tarde , seus companheiros como tenentes .   Hinamori academia Momo durante os dias da academia . Sua amizade com Izuru Kira e Renji Abarai teve início na Academia Shinigami , em um exercício de campo padrão para o mundo real para a prática de realização de Konso , ",
+      "profileImage":"http://localhost:3000/BleachPage/profile/Moomo.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/Hinamori/Bakudou n 12 Fushibi.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/Hinamori/Bakudou n 37 Tsuriboshi.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/Hinamori/Tobiume (1).jpg",
+      "desc1": "Hadō #12. Fushibi, 5ª Divisão O Tenente Momo Hinamori usa este feitiço em conjunto com Shakkahō e uma rede Kidō, que envolveu seus oponentes, resultando em uma grande explosão em torno de todos eles. ",
+      "desc2": "Bakudō #37. Tsuriboshi, O usuário cria uma esfera de energia azul que dispara seis cordas de seu centro. À medida que as cordas se prendem a objetos resistentes próximos, a energia no centro se solidifica em uma almofada plana elástica, que captura objetos em queda.",
+       "desc3": "É uma espada com outras pequenas espadas grudadas a ela. Tem a habilidade de atirar bolas de fogo explosivas, além de lançar várias ao mesmo tempo e criar explosões de fogo. Aparentemente de coloração vermelha, no caso, referente a coloração cogitada pela força espirital do usuário."
+    },
+  
+    {
+      "id": "95870805",
+      "name": "ICHIMARU GIN",
+      "price": 299.99,
+      "oldPrice": 399.99,
+      "image": "http://localhost:3000/BleachPage/img/gin.png",
+      "bio": "Gin Ichimaru (市丸 ギン, Ichimaru Gin), foi o capitão da 3ª Divisão do Gotei 13 até que ele traiu a Soul Society, a par de Sousuke Aizen e Tōsen Kaname. Seu tenente era Izuru Kira. Enquanto vivia em Rukongai quando criança, Gin encontrado Rangiku Matsumoto , uma criança sozinha, desabou no chão. Ele ofereceu-lhe algumas caqui seco, que ele estava carregando no momento, dizendo a ela que se ela pode entrar em colapso devido à fome, ela deve ter a energia espiritual . Rangiku reconheceu que ele tem que ter energia espiritual também. Na sequência, Gin apresentou-se a Rangiku, Rangiku comentou sobre a estranheza de seu primeiro nome.Gin e amor compartilhado de Rangiku de caqui secas podem ser rastreados para aquele dia.Após a sua reunião, Gin e Rangiku começaram a viver juntos e foi durante seu tempo juntos que Gin pediu Rangiku quando era seu aniversário e ela respondeu que não sabia, como ela nunca contava os dias até que ela o conheceu. Gin, então, disse-lhe que a partir de então, o dia em que se conheceram seria seu aniversário.",
+
+      "profileImage":"http://localhost:3000/BleachPage/profile/gin.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/gin/bankai.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/gin/Butou.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/gin/Korose, Kamishini no Yari.jpg",
+        "desc1": "Bankai: 神殺鎗, Kamishini no Yari (Lança Assassina dos Deuses). Gin afirma inicialmente que sua Bankai é apenas uma versão mais poderosa de seu shikai, podendo se estender vários quilómetros de distancia, depois Gin alega que a principal habilidade de sua Bankai não era seu tamanho, mas o fato de ser 500 vezes mais veloz que a velocidade do som. Porém, a real habilidade de sua Bankai é a de se tornar pó por um instante, enquanto se expande e contrai, e carregar um perigoso veneno dentro da lamina que destrói as células do oponente.",
+      "desc2": "Butou: (舞踏 Passo Dançante): Quando Gin ativa essa habilidade sua zanpakutou atinge uma grande velocidade, podendo expandir e contrair em menos de um segundo.",
+       "desc3": "Korose, Kamishini no Yari (殺せ,神杀枪 Mate todos: Lança Assassina dos Deuses): Infecta o adversário com o veneno mortal capaz de destruir as células do corpo, que percorre o interior da lâmina, deixando um pedaço da lâmina dentro do adversário."
+    },
+    {
+      "id": "95707805",
+      "name": "AIZEN SOUSUKE",
+      "price": 1299.99,
+      "oldPrice": 1499.99,
+     "image": "http://localhost:3000/BleachPage/img/Aizen.png",
+      "bio": "Aizen Sousuke é o vilão principal da obra Bleach. Ele é um Ex-Capitão da 5° divisão da Soul Society, saindo da Gotei 13 para realizar seus planos onde estava tramando há cem anos atrás com Gin Ichimura e Kaname Tôsen. Antes de tudo, ele era apenas um tenente com grandes habilidades, sendo promovido para quinta divisão com seu capitão Hirako. Nessa época, com seus parceiros, Aizen já vinha fazendo pesquisas sobre transcender o poder de um shinigami, após seu capitão desconfiar sobre ele, decide fazer uma investigação com seus amigos, mais cairam em um dos seus planos terríveis, onde aconteceu uma experiência Hollow. Depois disso, Urahara percebendo que Aizen estava aprontando, tentou o derrotar, mas sua força não era de um tenente qualquer, aproveitando a situação ele colocou a culpa em Kisuke, dizendo que estava cometendo pecados na Soul Society, mostrando quão poderoso e inteligente é comparado aos outros personagens.",
+      "profileImage":"http://localhost:3000/BleachPage/profile/aizen.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/aizen/bakudou 91.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/aizen/Hadou 90.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/aizen/kyoka suigetsu.jpg",
+      "desc1": "Bakudō #81. Dankū, Uma muralha defensiva é criada na frente do praticante para protegê-lo contra o ataque de um inimigo.  O praticante cria uma barreira translúcida na forma de uma grande parede retangular. De acordo com o Capitão da  6ªDivisão, Byakuya Kuchiki, este Kidō pode parar ataques baseados em Kidō com poder até o nível 89   o que é comprovado quando Sōsuke Aizen o usa para bloquear o  Hadō #88. Hiryū Gekizoku Shinten Raihō de Tessai Tsukabishi.  ",
+      "desc2": "Hadō #90. Kurohitsugi Kurohitsugi é um Kidō de alto nível que sela sua vítima em uma caixa espiritual de cor preta.[1] O usuário gera energia espiritual roxa/negra, que envolve o alvo com uma poderosa torrente de gravidade antes de  Kurohitsugi é um Kidō de alto nível que sela sua vítima em uma caixa espiritual de cor preta.[1] O usuário gera energia espiritual roxa/negra, que envolve o alvo com uma poderosa torrente de gravidade antes de ",
+       "desc3": "A habilidade especial de Kyōka Suigetsu é Kanzen Saimin (完全 催眠, Hipnose Completa). Ele controla os cinco sentidos até o ponto em que pode fazer com que o alvo interprete erroneamente a forma, a forma, a massa, a sensação e o cheiro de outra pessoa como inimigo. A condição de iniciação para a hipnose é mostrar ao inimigo a libertação de Kyōka Suigetsu. Depois de vê-lo apenas uma vez, esta pessoa vai sucumbir completamente à hipnose. Depois, cada vez que é liberado, esta pessoa cairá sob o thrall da hipnose."
+    },
+  
+    {
+      "id": "95876431",
+      "name": "ZARAKI KENPACHI",
+      "price": 299.99,
+      "oldPrice": 379.99,
+      "image": "http://localhost:3000/BleachPage/img/Kenpachi004.png",
+       "bio": "Zaraki é o capitão da 11ª Divisão no Gotei 13. Ele é o nono Kenpachi a deter esta posição.[4] Sua tenente é a Yachiru.   apelido de Kenpachi veio do bairro em que ele residiu, Zaraki, que foi distrito de nº 80 do Beco do Norte de Rukongai. O distrito #80 foi a pior da região, sem a lei da Rukongai, cheio de ladrões e assassinos (enquanto área # 1 era a mais ordeira e cumpridores da lei). Enquanto residentes no Distrito #80, Kenpachi não tinha nome. Durante esse tempo, ele tornou-se proficiente em esgrima e matou inúmeros inimigos. Durante suas viagens fora do Distrito #80, ele encontrou uma menina pequena e a nomeou Yachiru, em lembrança da única pessoa que ele sempre admirou, depois que ela não mostrou medo da espada. Yachiru veio da área de n º 79, Kusajishi, onde seus pais foram assassinados. Os dois eventos foram aparentemente bem perto. Naquele dia, ele também assumiu um nome: Kenpachi, o título dado em cima do Shinigami mais forte em cada geração, o que tem matado mais inimigos e venceu a maioria das batalhas.  Algum tempo depois Zaraki matou Kenpachi Kiganjou, o capitão da 11ª Divisão, num único golpe, na frente de mais de duas centenas de membros da Divisão. Zaraki se tornou o novo capitão (de acordo com o terceiro  Capitão de Qualificação Trial). Matando Kenpachi Kiganjō, Zaraki se tornou o décimo primeiro a ter o título de Kenpachi  No dia seguinte, Zaraki foi ao primeiro endereçamento de sua divisão, ele foi saudado por kakku e Yumichika que supostamente já se tornaram Shinigamis e juntaram-se a divisão.",
+      "profileImage":"http://localhost:3000/BleachPage/profile/zaraki.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/zaraki/Kendo.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/zaraki/duravel.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/zaraki/semTapag.jpg",
+      "desc1": "Kendō : Kenpachi possui considerável conhecimento e habilidade em Kendō, que Yamamoto o forçou a aprender antes de se juntar oficialmente ao Gotei 13, embora o treinamento durasse apenas um dia por medo de que Zaraki se tornasse muito poderoso.  No entanto, Kenpachi, que despreza o uso de habilidades e técnicas aprendidas de outra fonte, apenas usa Kendō como último recurso.",
+      "desc2": "Zaraki suprime o seu adversario com sua pressão espiritual",
+      "desc3": "Reiatsu contido, quando zaraki retira o seu tapa olho ele libera todo seu Reiatsu"
+    },
+  
+    {
+      "id": "9587643980",
+      "name": "SOI FON",
+      "price": 299.99,
+      "oldPrice": 379.99,
+      "image": "http://localhost:3000/BleachPage/img/soiFon2.png",
+      "bio": "Suì-Fēng (砕蜂 (ソイフォン Soi Fong),é a Comandante da Segunda Divisão do Gotei 13 , e é também a encarregada das Unidades Móvies Secretas , seu tenente é Marechiyo Ōmaeda.  Por várias gerações, os membros da família Fon foram soldados do Keigun. Todos nasciam para dar sua vida a ele. O valor de todos era determinado por sua força. Quem não conseguisse entrar no Keigun era deserdado. Soi Fon faz parte da nona geração, a mais jovem entre sete irmãos, membro da milícia. Ela abandonou o nome Fon Shaolin (蜂 梢綾 Shaolin Fon, em chinês Feng Shaoling) e pegou o pseudônimo de sua avó: Soi Fon. De cinco de  de seus irmãos, dois morreram na primeira missão e dois na segunda. Na sexta missão o último deles falece. Ela se sentia triste, envergonhada pela incompetência deles.  Soi Fon, vendo Shihouin Yoruichi, Capitã do Keigun, Líder da Família Shihouin, sua líder, bela, forte, decidida, seu sonho foi ser como ela. Até o dia em que entrou para ser da guarda pessoal dela. Yoruichi não queria saber de formalidades, queria uma amizade. Soi Fon se sentia feliz por ela, por ficar com ela, por lutar ao seu lado. Até o dia em que Yoruichi sumiu. Soi Fon ficou sabendo que ela fugiu com o exilado Urahara Kisuke. Ela se sentiu traída (Por que ela não me levou junto?)  Decidida a ficar mais forte que Yoruichi, virou Capitã do 2º Esquadrão e Líder do Keigun, melhorando muito suas habilidades de luta e se tornando muito poderosa.  No resgate de Kuchiki Rukia, encontrou de novo com sua antiga superior. As duas lutaram, mas Yoruichi ainda era mais forte. Quando a traição de Aizen Sousuke foi descoberta, as duas se uniram para capturá-lo, dando a entender que tinham se conciliado. ",
+      "profileImage":"http://localhost:3000/BleachPage/profile/soifon.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/soifon/bankai.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/soifon/shikai.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/soifon/shunko.webp",
+        "desc1": "Jakuhō Raikōben, Soifon é inferior a um edifício próximo executar o seu plano e comentários sobre como ele é patético, e quando isso acabar, ela vai vencê-lo severamente. É então revelado que ela tem um pano embrulhado muitas vezes em torno de um edifício e se amarrado à outra ponta. Soifon então ativa seu Bankai.",
+      "desc2": "Shikai : É acionado pelo comando(Picada de todos os inimigos até a morte), . Agarrando Suzumebachi com a mão direita, a espada inteira brilha branca e diminui de tamanho. Quando o brilho emitido se extingue, é revelado que Suzumebachi agora assumiu a forma de uma luva preta e dourada, com uma pequena corrente ligando-a a uma lâmina semelhante a um ferrão no dedo médio de Suì-Fēng.O (ferrão) tem cerca de duas vezes o comprimento normal dos dedos de Suì-Fēng, aumentando ligeiramente sua distância de ataque. As cores e o padrão do Shikai se assemelham aos de uma vespa.Nesta forma, Suzumebachi ainda é capaz de resistir aos ataques de espada de um oponente, já que Suì-Fēng pode bloquear ataques com o (ferrão) e as porções da manopla. ",
+       "desc3": "Mukyū Shunkō (無窮 瞬 閧, Ultimate Flash Cry ): Ela iria completar a técnica logo após sua luta com Yoruichi. Suì-Fēng descobriu uma técnica para envolver seu corpo várias vezes para fazer a Reiatsu que ela emite girar em torno dela como um vórtice indefinidamente, portanto, uma vez que ela ativa seu Shunkō, ela é capaz de mantê-lo pelo tempo que quiser."
+    },
+    {
+      "id": "9587643983",
+      "name": "KUROTSUCHI MAYURI",
+      "price": 299.99,
+      "oldPrice": 379.99,
+      "image": "http://localhost:3000/BleachPage/img/Mayuri_Kurotsuchi12.png",
+      "bio" :"Mayuri Kurotsuchi (涅 マユリ, Kurotsuchi Mayuri) é Capitão da 12ª Divisão do Gotei 13 e o segundo presidente do Departamento Tecnológico. Seu tenente é Nemu Kurotsuchi,  sua filha,  110 anos antes da série, Mayuri Kurotsuchi era um preso no Ninho dos Vermes, o único perigoso o suficiente para ser acorrentado atrás das grades por sua total falta de respeito pela vida quando se trata de experimentação. Mas isso mudou quando Mayuri é visitado  por Kisuke Urahara e seu tenente Hiyori Sarugaki, o primeiro oferecendo a Mayuri uma posição no SRDI. Depois de inicialmente recusar ser assistente de Urahara, Mayuri aceita quando Urahara aponta que ele é seu sucessor caso algo aconteça com ele. Nove anos após sua libertação, Kisuke e Hiyori forçados a deixar a Sociedade da Alma, Mayuri torna-se o novo capitão do Esquadrão 12. Como resultado do quinto experimento em seu projeto Nemuri, que criou a vida, enquanto mais tarde tomava o sétimo experimento  sobrevivente, Nemu Kurotsuchi, para ser seu tenente e assistente de laboratório enquanto fingia ser indiferente a ela para esconder sua alegria de criar uma forma de vida artificial totalmente estável. Durante este tempo, Mayuri experimentou em Quincies, incluindo  Soken Ishida, o avô e treinador de Uryū Ishida. ",
+      "profileImage":"http://localhost:3000/BleachPage/profile/mayuri.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/Mayuri/Bankai.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/Mayuri/veneno2.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/Mayuri/veneno.jpg",
+        "desc1": "Bankai: Konjiki Ashisogi Jizou (Assassino de Aberrações Dourado). O rosto que está em sua zanpakutou cria forma, virando um monstro gigante, com corpo de centopéia/lagarta. Na forma de demônio, Konjiki usa um manto que cobre seu corpo inteiro, deixando exposto somente sua grande cabeça. Por baixo do manto, é possível visualizar inúmeras lâminas de espadas. Jizou tem como habilidade uma névoa extremamente venenosa e espalha-lá a uma distância de 800 pés. Não é necessário dizer que o Capitão não é afetado pelo ataque. Konjiki também possui um dispositivo colocado pelo próprio Kurotsuchi Mayuri para que ela se auto-destruisse caso atacasse a ele.",
+      "desc2": "Venono, este veneno do mayuri, mexe com os seus sentidos fazendo tudo incluindo a fala parecer muito mais lenta, foi usado contra o oitavo espada",
+       "desc3": "veneno paralisante, paralisa o corpo da pessoa"
+    
+    },
+    {
+      "id": "95876439843434",
+      "name": "ULQUIORRA CIFER",
+      "price": 299.99,
+      "oldPrice": 379.99,
+      "image": "http://localhost:3000/BleachPage/img/ulquiorra.png",
+      "bio": "Ulquiorra é um dos personagens da série (Bleach) sendo considerado o quarto Espada mais forte existente no grupo de Aizen. O seu passado não chegou a ser mencionado no anime/mangá, mas felizmente existe uma One-shot que conta sobre a origem deste Arrancar, a qual foi bem recebida pelo público, pois o garoto protagonizou uma das melhores batalhas existentes em toda a série, senão a melhor, ganhando popularidade entre os fãs rapidamente. Embora não possuísse muito destaque durante a trama, Cifer acabou recebendo um grande reconhecimento por causa das suas habilidades, no qual demonstrou ser bastante destrutivo enquanto utilizava técnicas consideresadas simples, porque conseguia fazê-las usando somente as pontas dos dedos. O rapaz também tinha um visual chamativo, se destacando principalmente pelas suas roupas brancas e pelo buraco presente na região do pescoço. Como já sabemos, Ulquiorra foi o único Arrancar da equipe de Sousuke que alcançou um nível superior, chamado de (vasto lord)  . Ademais, o jovem também possuía duas transformações que aumentavam drasticamente os seus atributos físicos, pois conseguia lançar várias rajadas de energias denominadas de  (Lanza del Relámpago )" ,  
+      "profileImage":"http://localhost:3000/BleachPage/profile/ulquiorra-png-1.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/ulquiorra/cero oscuras.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/ulquiorra/lança del relampago.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/ulquiorra/ressucion segunda etapa.jpg",
+      "desc1": "Cero Oscuras Preto com um contorno verde, que Ulquiorra afirma ser semelhante ao Getsuga Tenshōpreto de Ichigo. O Cero Oscuras de Ulquiorra é poderoso o suficiente para explodir a máscara de Ichigo e destruir uma grande parte da cúpula de Las Noches do tamanho da cidade. Ulquiorra se refere a ele como (nosso cero) Preto com um contorno verde, que Ulquiorra afirma ser semelhante ao Getsuga Tenshōpreto de Ichigo. O Cero Oscuras de Ulquiorra é poderoso o suficiente para explodir a máscara de Ichigo e destruir uma grande parte da cúpula de Las Noches do tamanho da cidade. Ulquiorra se refere a ele como",
+      "desc2": "Lanza del Relámpago Usando seu poder espiritual, Ulquiorra cria uma arma parecida com o dardo semelhante à Luz de la Luna, com a única diferença de ser a energia que flui de cada extremidade de forma semelhante às chamas, fazendo com que ela pareça mais em forma de flecha. Ele pode usar essa arma como um projétil ou como uma arma física. Quando jogado, produz uma explosão incrivelmente destrutiva no impacto, o que diminuiu a fortaleza de Las Noches em altura. Ulquiorra prefere não usar o ataque de perto e, enquanto ele pode usar estas lanças em rápida sucessão, ele tem dificuldade em controlar sua trajetória. Ulquiorra pode usar esta arma como uma lâmina, quer para desintegrar o material após o impacto, exibido quando ele afastou seu próprio braço amputado depois que Zangetsu o jogou, ou cortou, cortando um dos chifres de Zangetsu para evitar que ele usasse um Cero Em Uryū Ishida.",
+      
+      "desc3": "Uma forma muito mais forte e aterrorizante de ulquiorra"
+  
+    },
+    {
+      "id": "95876439843434222",
+      "name": "HITSUGAYA TOUSHIRO",
+      "price": 299.99,
+      "oldPrice": 379.99,
+       "image": "http://localhost:3000/BleachPage/img/toushiro.png",
+       "bio": "Tōshirō Hitsugaya (日 番 谷 冬 獅 郎, Hitsugaya Tōshirō ) é um personagem do anime e mangá Bleach , de Tite Kubo e cuja adaptação para anime é dirigida por Noriyuki Abe. Ele é o capitão da 10ª Divisão da Soul Society dos Gotei 13 Protection Squads , e possui o mais poderoso Ice Zanpakutō chamado Hyōrinmaru . Seu tenente é Rangiku Matsumoto. O Homem mais Poderoso de todo a história de Bleach. Aquele que não perde, eles deixa os outros ganharem, aquele que não é pequeno e sim deu a sua altura por pura dó. Hitsugaya morava no primeiro distrito de Rukongai na companhia de uma velha que ele chamava de (avo)  dia em que sua amiga e vizinha Hinamori vai para a Academia Shinigami , Hitsugaya vai com sua avó se despedir  dela com um caráter frio fingido. O jovem plus tem sonhos recorrentes de um deserto gelado, com uma voz que o chama ... algo que ele não  consegue identificar. Seu caráter frio, cabelos brancos e olhos turquesa fazem as pessoas temê-lo e desconfiar  consegue identificar. Seu caráter frio, cabelos brancos e olhos turquesa fazem as pessoas temê-lo e desconfiar  Cinco anos depois, Hinamori os visita menos, sua avó está velha e magra e Hitsugaya quase não cresceu. Um dia, quando vai comprar feijão para a avó, o lojista dá-lhe o troco com desconfiança e é quando um shinigami de  seios fartos o defende mesmo contra a sua vontade. Hitsugaya, este shinigami é Rangiku Matsumoto de aparência mais jovial e cabelo curto.  ", 
+      "profileImage":"http://localhost:3000/BleachPage/profile/Toshiro.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/hitsugaya/Guncho Tsurara.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/hitsugaya/Hyōten Hyakkasō.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/hitsugaya/Sennen Hyōrō.jpg",
+        "desc1": "Guncho Tsurara  Depois de congelar a água ao seu redor em uma série de punhais semelhantes a gelo, que flutuam ao seu redor em formação, Hitsugaya balança seu Zanpakutō em um arco, lançando os punhais em direção ao seu alvo em alta velocidade. Os punhais são poderosos o suficiente para romper o gelo espesso com facilidade, mantendo sua velocidade e trajetória, e podem se reformar se derreterem.",
+      "desc2": "Hyōten Hyakkasō À medida que um enorme buraco se abre nas nuvens, uma grande quantidade de neve cai sobre o oponente de Hitsugaya. Quando a neve entra em contato com o oponente, flores de gelo brotam por todo o corpo, prendendo-as instantaneamente em um pilar de gelo. Hitsugaya afirma que a vida de seu oponente acabará quando a última das 100 pétalas cair. [1] No entanto, quando usado contra Tier Harribel, a Espada foi capaz de sobreviver ao ataque com pequenas lesões. ",
+       "desc3": "Sennen Hyōrō  Criando muitos pilares de gelo, que cercam ele e seu inimigo, Hitsugaya vira sua espada 90 graus no sentido anti-horário, levando os pilares a se moverem em direção ao inimigo, envolvendo-os e esmagando-os. Embora esta técnica seja muito poderosa, Hitsugaya infere que leva um tempo considerável para se preparar, e, portanto, a distração de seu inimigo é crucial para completar com sucesso este ataque. "
+  
+    },
+    {
+      "id": "9587643984",
+      "name": "GRIMMJOW JAEGERJAQUEZ",
+      "price": 299.99,
+      "oldPrice": 379.99,
+      "image": "http://localhost:3000/BleachPage/img/grimmjow.png",
+      "bio": "Grimmjow é o Espada N°6 do exercito de Aizen e o grande rival de Ichigo na fase Pré Time-Skip. Ele foi responsável por vários combates marcantes e momentos de importância. Grimmjow apareceu mais tarde na Guerra dos Mil Anos e finalizou Askin. Ele atualmente ajuda Halibel a gerir Las Noches.  Grimmjow é um dos principais vilões do Arco Hueco Mundo, anime Bleach. Pertence a um poderoso grupo de Arrancar, conhecido como Espadas, tal grupo que possui 10 membros e cada um recebe uma numeração que vai de 0 a 9, com base em seus poderes e habilidades, sendo que Grimmjow é o Sexto Espada. Ele teve uma boa participação no arco, proporcionando batalhas memoráveis para os amantes da obra. ",
+      "profileImage":"http://localhost:3000/BleachPage/profile/grimmjow.png",
+      "Skill1":"http://localhost:3000/BleachPage/skillsImage/grimmjow/Grand_Rey_Cero_de_Grimmjow.jpg",
+      "Skill2":"http://localhost:3000/BleachPage/skillsImage/grimmjow/grimmjow resurrection.jpg",
+      "Skill3":"http://localhost:3000/BleachPage/skillsImage/grimmjow/Grimmjow_Desgarron.jpg",
+      "desc1": "Gran Rey Cero  É um Cero que só Espada é capaz de usar. É realizado misturando o próprio sangue de uma Espada com o Cero. O resultado é um Cero com um poder de ataque e velocidade muito maiores, bem como uma mudança de cor exclusiva do Espada. Também é muitas vezes mais poderoso do que um Cero normal, capaz de perturbar o tecido do espaço, ele também parece girar como uma navalha ao ser liberado enquanto se comprime e descomprime devido à velocidade e força bruta. Ulquiorra afirma que usar um Gran Rey Cero é uma das duas coisas proibidas dentro de Las Noches, pois é tão avassalador que pode destruir a fortaleza. ",
+      "desc2": "Grimmjow Ressurreição, esta forma aumenta todas as suas habilidades basicas, lieberando também outras habilidades como desgarron e Garra da Pantera",
+      "desc3": "Desgarrón (豹 王 の 爪 (デ ス ガ ロ ン, rasgado aceso. (Pata do Rei Pantera) ),  é a técnica mais poderosa de Grimmjow, que lhe permite criar enormes e afiadas barras de energia azuis com suas garras, e isso pode ser lançada no oponente; além disso, essa habilidade parece mudar a atmosfera ao redor de Grimmjow, já que se torna muito mais escuro do que o normal dentro da cúpula de Las Noches que, como sabemos, o céu está sempre claro. "
+  
+    }
+   
+  
+    
+  ]
+  
+  

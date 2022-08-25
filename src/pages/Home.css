@@ -1,0 +1,233 @@
+@font-face {
+    font-family:'bleach' ;
+    src: url('../../public/img/FontBleach.ttf') format('truetype');
+    font-weight: bold;
+    color: aquamarine;
+    font-size: 40px;
+   }
+
+
+
+h1  {
+    color: orange;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: 'bleach';
+
+}
+.banner {
+    height: 800px;
+    width:  800px;
+}
+
+.navegacao {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+ 
+;
+ 
+ 
+
+}
+.list {
+    display: flex;
+    font-size: 30px;
+    font-weight: bold;
+    align-items: center;
+    gap: 30px;
+    padding-right: 100px;
+  
+}
+main {
+    margin-bottom: 100px;
+}
+
+a {
+    color: black;
+ 
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #F5F5F5;
+
+}
+span {
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'bleach';
+  
+}
+
+span:hover {
+    color: red;
+    transition: 0.8s;
+}
+
+.line {
+    margin-top: 20px;
+    margin: auto;
+    border-top: 1px solid white;
+    width: 60%;
+}
+
+.title-characters {
+    font-family: 'bleach';
+}
+
+.char {
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    
+}
+.title{
+    margin-top: 10px;
+    margin-bottom: 30px;
+  
+}
+.characters  {
+    list-style: none;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr  ;
+   grid-template-columns: minmax(0, 1fr) minmax(500px);
+   grid-template-rows:320px auto;
+   gap: 5px;
+   background-color: black;
+   margin: auto;
+   width: 68%;
+   max-height: 600px;
+   overflow: hidden scroll;
+   margin-bottom: 100px;  
+  
+}
+.characters::-webkit-scrollbar   {
+    background-color: #202020;
+} 
+
+.characters::-webkit-scrollbar-thumb   {
+    background-color: black;
+} 
+
+
+  
+
+.characters  li {
+
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-right: 1px solid #202020;
+    border-bottom: 1px solid #202020;
+    padding: 10px;
+  
+    
+   
+}
+@media (max-width: 700px) { 
+    .banner {
+        width: 500px;
+    }
+    main {
+        overflow-x: hidden;
+    }
+    .characters {
+        width: 100%;
+        padding-right: 20px;
+
+ 
+        padding-right: 100px;
+    
+    }
+
+    .characters  li {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .section-three {
+        display: flex;
+        flex-direction: column;
+    }
+    .Video {
+        width: 480px;
+    }
+    body {
+        overflow-x: hidden;
+    }
+
+}
+
+
+.imgChar {
+    height: 180px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.btn {
+    height: 5%;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; ;
+    font-size: 20px;
+    background-color: orange;
+    text-decoration: none;
+
+    
+}
+
+.btn:hover {
+    color: white;
+    transition: 0.6s;
+    background-color: orange;
+}
+
+.line2 {
+    margin-top: 100px;
+    border-top: 1px solid white;
+    margin: auto;
+    width: 80%;
+}
+
+    .section-three{
+        margin-bottom: 1000px;
+        background-color: black;
+
+    }
+
+  .BannerIchigo {
+    
+      width: 700px;
+      height: 600px;
+      padding: 40px;
+  }  
+  .section-three {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      margin: auto;
+      
+  }
+
+  .textHistory {
+    padding: 40px;
+    font-size: 25px;
+  }
+
+  .link-nav:hover {
+      color: orange;
+  }  
+
+  svg:hover {
+    color: orange;
+    transition: 0.6s;
+  }
+
+
+ 

@@ -1,0 +1,192 @@
+
+
+.title-details {
+    font-family: sans-serif;
+    color: orange;
+    
+}
+.characterName {
+    color: orange;
+
+}
+.titleBio {
+    color: orange;
+}
+
+.imgCharr {
+    height: 500px;
+ 
+}
+
+.bio {
+    width: 40%;
+   
+}
+
+.character {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Characterline {
+    border-bottom: 1px solid #202020;
+
+}
+
+.lineblack {
+    border-bottom: 2px solid #202020;
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.skil {
+    text-align: center;
+    color: orange;
+    
+}   
+ 
+
+.sectionSkill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    height: 180px;
+    margin-bottom: 30px;
+
+    
+
+
+}
+
+
+
+.MyImage {
+    margin-top: 220px;
+    background-color: black;
+   padding: 15px;
+    border-radius: 20px;
+    transform: translateY(241px);
+    animation-duration: 4s;
+    animation-name:Myanimation;
+    animation-fill-mode: forwards; 
+
+    
+
+    text-align: center;
+
+ 
+    
+}
+
+
+@keyframes Myanimation {
+    from {
+        transform: translateY(241px);
+    }
+
+    to {
+        transform: translateY(30px);
+    }
+
+  
+}
+
+
+.skilBlock {
+    height: 220px;
+    background-color: aqua;
+    cursor: pointer;
+    border-radius: 30px;
+
+
+}
+.mytext {
+  display: flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+  text-align: left; 
+  background-color: orange;
+  padding: 35px;
+  border-radius: 20px;
+   width: 200px;
+  word-break: break-all;
+  height: 240px;
+  width: 240px; 
+  overflow: hidden scroll;  
+
+ 
+  
+
+
+}
+
+
+
+
+
+
+
+.description {
+    
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.mandetail {
+    margin-bottom: 300px
+    ;
+}
+
+
+.mandetail {
+    visibility: hidden;
+}
+
+
+    .test {
+        height: 200px;
+        width: 200px;
+        background-color:red;
+        cursor: pointer;
+    }
+
+
+    @media (max-width: 700px) { 
+        .character {
+            display: flex;
+            flex-direction: column-reverse;
+            overflow-x: hidden;
+        }
+        .sectionSkill {
+            display: flex;
+            flex-direction: column;
+        }
+        .bio {
+            margin-top: 20px;
+            height: 400px;
+            overflow-y: scroll;
+            margin-bottom:700px;
+            width: 300px;
+            text-align: center;
+         
+          
+         
+        }
+        .bio::-webkit-scrollbar   {
+            background-color: #202020;
+        } 
+        
+        .bio::-webkit-scrollbar-thumb   {
+            background-color: black;
+        } 
+         
+     
+        
+    }
