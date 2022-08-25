@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BleachPage/static/css/main.64def079.css",
+    "main.js": "/BleachPage/static/js/main.0659bd16.js",
+    "static/js/787.5be0e7b7.chunk.js": "/BleachPage/static/js/787.5be0e7b7.chunk.js",
+    "static/media/BleachVideo.mp4": "/BleachPage/static/media/BleachVideo.459787d39754ce435821.mp4",
+    "static/media/BANNER.png": "/BleachPage/static/media/BANNER.e4e41042b9bcf5915fbb.png",
+    "static/media/main_03.jpg": "/BleachPage/static/media/main_03.7a088bf276a949d06347.jpg",
+    "static/media/FontBleach.ttf": "/BleachPage/static/media/FontBleach.0f492287c845c7ea47ab.ttf",
+    "index.html": "/BleachPage/index.html",
+    "main.64def079.css.map": "/BleachPage/static/css/main.64def079.css.map",
+    "main.0659bd16.js.map": "/BleachPage/static/js/main.0659bd16.js.map",
+    "787.5be0e7b7.chunk.js.map": "/BleachPage/static/js/787.5be0e7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64def079.css",
+    "static/js/main.0659bd16.js"
+  ]
+}
