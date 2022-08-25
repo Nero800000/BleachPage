@@ -18,7 +18,7 @@
     
    
     const Myfecth = async () => {
-        const api = await fetch('http://localhost:3000/BleachPage/characters,json')
+        const api = await fetch('https://nero800000.github.io/BleachPage/characters,json')
        const response = await api.json()
        setCharacters(response)
 
