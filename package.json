@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "publicar": "npm run build && gh-pages -d build -r https://github.com/Nero800000/BleachPage.git"
+    "publicar": "npm run build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
