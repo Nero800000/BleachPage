@@ -1,5 +1,5 @@
 
-  import React, { useState,useEffect, useRef} from "react";
+  import React, { useState,useEffect} from "react";
   import './Details.css'
   import {useParams} from 'react-router-dom'
 
@@ -10,11 +10,11 @@
   const Details = () => {
     
 
-    const text = "a Zanpakutō absorve e condensa o Reiatsu do usuário,e depois libera em forma de lua crescente"
+  
     const {id} = useParams()
 
     const [characters, setCharacters] = useState([])
-    const [skill, setskill] = useState([])
+    
     
    
     const Myfecth = async () => {
@@ -31,14 +31,7 @@
       
   },[])
 
-  console.log("veio",skill)
-
-   const mytest = (classe) => {
-       return(
-            classe = "test2"
-       )
-   }
-  
+ 
     
       return (
         <main className="mandetail">  
@@ -67,7 +60,7 @@
              
              
                  </li> 
-                 AAAAAAAA
+      
                  </>
                   
                  
